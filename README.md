@@ -1,1 +1,1 @@
-# Multiclass_Semantic_Segmentation
+# Multiclass Semantic Segmentation
